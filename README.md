@@ -21,7 +21,6 @@ This is my personal portfolio website. It showcases my projects, skills, and con
     ```bash
     cd portfolio
     ```
-    ```
 
 ## Usage
 
@@ -41,10 +40,6 @@ This is my personal portfolio website. It showcases my projects, skills, and con
 - HTML
 - CSS
 - CSS
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
